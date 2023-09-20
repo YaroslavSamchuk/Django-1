@@ -1,0 +1,22 @@
+html {
+    background-color: darkgrey;
+}
+
+body {
+    background-color: blanchedalmond;
+    margin: 100px;
+    align-content: center;
+}
+
+#main_text {
+    text-align: center;
+
+}
+
+#ul_style {
+    list-style: none;
+}
+
+p {
+    margin: 20px;
+}

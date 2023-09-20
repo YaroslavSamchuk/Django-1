@@ -1,0 +1,52 @@
+html {
+    background-color: rgb(193, 193, 193);
+}
+
+
+body {
+    margin: 100px;
+    background-color: rgb(255, 240, 223);
+    text-align: center;
+    align-content: center;
+}
+h1 {
+    text-align: center;
+    text-justify: auto;
+    text-shadow: 2px 0px 10px red;
+}
+header {
+    height: 100px;
+}
+
+#p-model{
+    text-align: center;
+    text-justify: auto;
+}
+
+#model_image {
+    width: 250px;
+}
+
+.model_ul {
+    list-style: none;
+}
+
+.li_model {
+    display: inline-block;
+    margin: 20px;
+    background-color: rgb(195, 185, 175);
+    box-shadow: 2px 5px 10px red;
+    width: 400px;
+}
+
+.text_model {
+    margin: 10px;
+    background-color: rgb(230, 217, 205);
+    box-shadow: 2px 5px 10px black;
+}
+
+.li_model_image {
+    display: inline-block;
+    margin: 20px;
+    box-shadow: 3px 2px 10px red;
+}
